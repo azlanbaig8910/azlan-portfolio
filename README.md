@@ -49,4 +49,4 @@ This portfolio is deployed using **Vercel** for fast, reliable, and scalable hos
 
 ## 📄 License
 
-This project is intended for personal and portfolio purposes only. is this right now?
+This project is intended for personal and portfolio purposes only.
