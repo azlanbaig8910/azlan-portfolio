@@ -1,6 +1,6 @@
 const experiences = [
   {
-    period: "2026 — Present",
+    period: "Dec 2025 — Present",
     role: "Frontend Developer",
     company: "Fronx Solutions",
     description:
@@ -9,7 +9,7 @@ const experiences = [
     current: true,
   },
   {
-    period: "Oct 2024 — Dec 2024",
+    period: "Sep 2024 — Dec 2024",
     role: "Frontend Developer Intern",
     company: "Personide Solutions",
     description:
