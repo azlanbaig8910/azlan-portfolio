@@ -1,16 +1,52 @@
-# React + Vite
+# 👋 Azlan Baig — Frontend Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **frontend developer portfolio**.  
+This repository highlights my work, experience, and technical skills with a strong focus on **clean UI**, **performance**, and **modern frontend architecture**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👨‍💻 About Me
 
-## React Compiler
+I’m a **Frontend Developer** with professional experience building **responsive**, **scalable**, and **user-centric** web applications.  
+I specialize in creating intuitive interfaces using **React** and **Next.js**, with attention to performance, accessibility, and maintainable code.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I enjoy turning complex ideas into clean, usable experiences and continuously improving my skills with modern frontend and AI-assisted workflows.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- ⚛️ **React** — Component-driven UI development  
+- 🚀 **Next.js** — Server-side rendering & modern routing  
+- 🟦 **TypeScript** — Type-safe and scalable code  
+- 🎨 **Tailwind CSS** — Utility-first styling  
+- 🌱 **Git & GitHub** — Version control & collaboration  
+- 🔼 **Vercel** — Deployment & hosting  
+
+---
+
+## 🌟 Featured Projects
+
+- **Chewy** — Modern e-commerce frontend with optimized UI flows  
+- **IAtify** — AI SaaS platform frontend focused on usability  
+- **Hiralent** — Hiring and job-listing platform with real-world production experience  
+
+---
+
+## ▶️ Running Locally
+
+To run this project on your local machine:
+
+```bash
+git clone "https://github.com/azlanbaig8910/azlan-portfolio.git"
+npm install
+npm run dev
+```
+
+## 🚀 Deployment
+
+This portfolio is deployed using **Vercel** for fast, reliable, and scalable hosting.
+
+## 📄 License
+
+This project is intended for personal and portfolio purposes only. is this right now?
