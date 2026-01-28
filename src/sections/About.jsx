@@ -53,7 +53,7 @@ export const About = () => {
 
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
               <p>
-                I’m a passionate Frontend Developer with 1+ year of professional experience building responsive, performance-focused web interfaces using modern technologies like React and Next.js.
+                I’m a passionate Frontend Developer with over 2+ years of professional experience building responsive, performance-focused web interfaces using modern technologies like React and Next.js.
               </p>
               <p>
                 I enjoy creating clean, scalable UI components and turning complex requirements into intuitive user experiences.

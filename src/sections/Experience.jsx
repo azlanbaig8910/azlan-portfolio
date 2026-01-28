@@ -4,17 +4,31 @@ const experiences = [
     role: "Frontend Developer",
     company: "Fronx Solutions",
     description:
-      "Working on multiple client projects, building responsive and production-ready frontend applications. Collaborating with designers and backend teams to deliver clean UI, performance-optimized layouts, and maintainable codebases.",
-    technologies: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Git", "GitHub", "Vercel"],
+      "Working on production-level client projects, building responsive and scalable frontend applications. Developing reusable UI components, implementing modern layouts, and collaborating with designers and backend teams to deliver clean, performance-optimized user interfaces.",
+    technologies: [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Git",
+      "GitHub",
+      "Vercel",
+    ],
     current: true,
   },
   {
-    period: "Sep 2024 — Dec 2024",
-    role: "Frontend Developer Intern",
-    company: "Fronx Solutions",
+    period: "Dec 2023 — Dec 2024",
+    role: "Frontend Developer",
+    company: "Personide Technologies",
     description:
-      "Contributed to real-world frontend projects by building responsive user interfaces and reusable UI components. Worked closely with designers to translate layouts into functional, pixel-perfect web pages while following modern frontend development practices.",
-    technologies: ["React", "JavaScript (ES6+)", "Tailwind CSS", "Git", "GitHub"],
+      "Built and maintained responsive web interfaces using React and modern CSS frameworks. Translated UI designs into functional components, improved usability, and collaborated with team members using Git-based workflows on real-world projects.",
+    technologies: [
+      "React",
+      "JavaScript (ES6+)",
+      "Tailwind CSS",
+      "Git",
+      "GitHub",
+    ],
     current: false,
   },
 ];
