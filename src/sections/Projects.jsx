@@ -14,7 +14,7 @@ const projects = [
     description:
       "Worked on the frontend of IAtify.com, an AI-powered SaaS platform offering tools such as AI content generation and customizable chatbots. Developed interactive, responsive UI components and pages to clearly present product features, improve navigation, and deliver a smooth user experience across devices.",
     image: "/projects/project_2.png",
-    tags: ["React", "TypeScript", "Tailwind CSS", "Git", "GitHub"],
+    tags: ["React", "JavaScript (ES6+)", "Tailwind CSS", "Git", "GitHub"],
     link: "https://iatify.com/",
   },
   {
