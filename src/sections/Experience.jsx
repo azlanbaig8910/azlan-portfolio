@@ -11,10 +11,10 @@ const experiences = [
   {
     period: "Sep 2024 — Dec 2024",
     role: "Frontend Developer Intern",
-    company: "Personide Solutions",
+    company: "Fronx Solutions",
     description:
-      "Worked as a Frontend Developer Intern, contributing to responsive web interfaces and real-world client projects. Assisted in building reusable UI components, translating designs into functional layouts, and improving overall user experience using modern frontend technologies.",
-    technologies: ["React", "Tailwind CSS", "Git", "GitHub"],
+      "Contributed to real-world frontend projects by building responsive user interfaces and reusable UI components. Worked closely with designers to translate layouts into functional, pixel-perfect web pages while following modern frontend development practices.",
+    technologies: ["React", "JavaScript (ES6+)", "Tailwind CSS", "Git", "GitHub"],
     current: false,
   },
 ];
@@ -77,11 +77,10 @@ export const Experience = () => {
 
                 {/* Content */}
                 <div
-                  className={`pl-8 md:pl-0 ${
-                    idx % 2 === 0
+                  className={`pl-8 md:pl-0 ${idx % 2 === 0
                       ? "md:pr-16 md:text-right"
                       : "md:col-start-2 md:pl-16"
-                  }`}
+                    }`}
                 >
                   <div
                     className={`glass p-6 rounded-2xl border border-primary/30 hover:border-primary/50 transition-all duration-500`}
@@ -95,9 +94,8 @@ export const Experience = () => {
                       {exp.description}
                     </p>
                     <div
-                      className={`flex flex-wrap gap-2 mt-4 ${
-                        idx % 2 === 0 ? "md:justify-end" : ""
-                      }`}
+                      className={`flex flex-wrap gap-2 mt-4 ${idx % 2 === 0 ? "md:justify-end" : ""
+                        }`}
                     >
                       {exp.technologies.map((tech, techIdx) => (
                         <span
