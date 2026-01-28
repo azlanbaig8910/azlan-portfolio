@@ -87,8 +87,12 @@ export const Navbar = () => {
                 {link.label}
               </a>
             ))}
-
-            <Button onClick={() => setIsMobileMenuOpen(false)}>
+            
+            <Button
+              onClick={() => setIsMobileMenuOpen(false)}
+              href="#contact"
+              className="transition-transform hover:scale-105 md:block"
+            >
               Contact Me
             </Button>
           </div>
