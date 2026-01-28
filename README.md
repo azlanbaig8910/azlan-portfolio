@@ -7,10 +7,7 @@ This repository highlights my work, experience, and technical skills with a stro
 
 ## 👨‍💻 About Me
 
-I’m a **Frontend Developer** with professional experience building **responsive**, **scalable**, and **user-centric** web applications.  
-I specialize in creating intuitive interfaces using **React** and **Next.js**, with attention to performance, accessibility, and maintainable code.
-
-I enjoy turning complex ideas into clean, usable experiences and continuously improving my skills with modern frontend and AI-assisted workflows.
+I’m a **Frontend Developer** with professional experience building **responsive**, **scalable**, and **user-centric** web applications. I specialize in creating intuitive interfaces using **React** and **Next.js**, with attention to performance, accessibility, and maintainable code. I enjoy turning complex ideas into clean, usable experiences and continuously improving my skills with modern frontend and AI-assisted workflows.
 
 ---
 
